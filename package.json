@@ -1,12 +1,12 @@
 {
     "name": "nodejs-studio",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "",
     "main": "index.js",
-    "homepage": "https://github.com/myogeshchavan97/github-repos-search",
+    "homepage": "https://github.com/Syrian-Open-Source/node-studio",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/myogeshchavan97/github-repos-search.git"
+        "url": "https://github.com/Syrian-Open-Source/node-studio"
     },
     "dependencies": {
         "arg": "^5.0.1",
