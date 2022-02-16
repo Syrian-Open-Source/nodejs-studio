@@ -7,9 +7,9 @@ The first step is using npm to install the package and automatically update your
 npm install nodejs-studio
  ```
  * Creat bin folder in root directoty
- ![Screenshot](images/1.JPG)
+ ![Screenshot](images/1.PNG)
  * Inside bin folder create create-classes file 
- ![Screenshot](images/2.JPG)
+ ![Screenshot](images/2.PNG)
  * Copy this to create-classes :
   ```
 #!/usr/bin/env node
@@ -24,7 +24,7 @@ require("nodejs-studio").create(process.argv);
     },
     "keyword": [
         "create"
-    ],
+    ]
  ```
  
  ## Usage
