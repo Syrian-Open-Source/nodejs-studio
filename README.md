@@ -51,6 +51,10 @@ create --type package --name <your-package-name>
  create -t package -n <packageName>
  ```
  
+Then you can see that the package has been created:
+ 
+ ![Screenshot](images/3.PNG)
+ 
 * To creat controller type this in cmd:
  ```
 create --type controller --name <controllerName>  --path <path>
@@ -59,7 +63,7 @@ create --type controller --name <controllerName>  --path <path>
  ```
 create -t c -n <controllerName>  -p <path>
  ```
-* To see all command type this in cmd:
+* To see all commands type this in cmd:
  ```
 create --type help
  ```
