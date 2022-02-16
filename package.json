@@ -1,0 +1,30 @@
+{
+    "name": "nodejs-studio",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "homepage": "https://github.com/myogeshchavan97/github-repos-search",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/myogeshchavan97/github-repos-search.git"
+    },
+    "dependencies": {
+        "arg": "^5.0.1",
+        "axios": "^0.20.0",
+        "fs": "0.0.1-security"
+    },
+    "type": "module",
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "github",
+        "repos",
+        "repositories",
+        "sort",
+        "stars"
+    ],
+    "author": "Yogesh Chavan <myogeshchavan97@gmail.com>",
+    "license": "ISC"
+}
