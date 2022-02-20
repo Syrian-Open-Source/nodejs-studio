@@ -1,3 +1,7 @@
+<p align="center" width="100%">
+    <img width="33%" src="images/nodejs-studio3.png">
+</p>
+
 [![https://nodei.co/npm/nodejs-studio.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/nodejs-studio.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/nodejs-studio)
 
 Add more files to your project by one instruction
