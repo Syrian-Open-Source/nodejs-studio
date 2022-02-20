@@ -1,7 +1,7 @@
 {
     "name": "nodejs-studio",
     "version": "1.0.1",
-    "description": "",
+    "description": "nodejs-studio It is a npm package that helps nodeJs developers to quickly create the files used in the project",
     "main": "index.js",
     "homepage": "https://github.com/Syrian-Open-Source/node-studio",
     "repository": {
@@ -25,6 +25,6 @@
         "sort",
         "stars"
     ],
-    "author": "Yogesh Chavan <myogeshchavan97@gmail.com>",
+    "author": "Mohamed Taha",
     "license": "ISC"
 }
