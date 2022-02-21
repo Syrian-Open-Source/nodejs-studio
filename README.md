@@ -2,11 +2,11 @@
     <img width="33%" src="images/nodejs-studio3.png">
 </p>
 
-[![https://nodei.co/npm/nodejs-studio.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/nodejs-studio.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/nodejs-studio)
 
-Add more files to your project by one instruction
-# nodejs-studio
-## Dependency
+# Nodejs Studio
+Node js package makes creating node jd dependincies files like Controllers,Entities and Repositories easier by executing a few instructions
+
+## Dependencies
 The first step is using npm to install the package and automatically update your package.json file, you can do this by running:
  ```
 npm install nodejs-studio
@@ -72,6 +72,6 @@ create -t c -n <controllerName>  -p <path>
 create --type help
  ```
  ## Security
- If you discover any security related issues, please email them first to "your email", if we do not fix it within a short period of time please open a new issue describing your problem.
+ If you discover any security related issues, please email them first to "mt880806@gmail.com", if we do not fix it within a short period of time please open a new issue describing your problem.
  ## Credits
- - https://www.linkedin.com/in/-mohammed-taha
+ [Mohammed Taha](https://www.linkedin.com/in/-mohammed-taha)
