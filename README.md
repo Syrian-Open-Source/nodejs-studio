@@ -4,7 +4,7 @@
 
 
 # Nodejs Studio
-Node js package makes creating node jd dependincies files like Controllers,Entities and Repositories easier by executing a few instructions
+Node js package makes creating node js project dependincies files like Controllers,Entities and Repositories easier by executing a few instructions
 
 ## Dependencies
 The first step is using npm to install the package and automatically update your package.json file, you can do this by running:
